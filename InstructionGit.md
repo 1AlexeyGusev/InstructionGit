@@ -79,3 +79,6 @@ $ cat .gitignore
 ```
 git branch "branch_name"
 ```
+Список веток в репозитории можно посмотреть командой:
+```
+git branch```

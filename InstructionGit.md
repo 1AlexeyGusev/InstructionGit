@@ -110,3 +110,4 @@ git merge "branch name"
 Если была изменена одна и та же часть файла в обеих ветках, то может возникнуть конфликт. VSCode предолжит варианты выхода из конфликта
 
 ## 12. Удаление веток
+lsenb'sentbsenr'tgnrn'slengl/ensrgsel'rnh'slenbh
